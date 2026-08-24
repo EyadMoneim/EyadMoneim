@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos for EEDOO, in README order.",
+  "projects": [
+    {
+      "repo": "ldi-website-finalization",
+      "description": "LDI System: An event & leadership management ecosystem involving registration, room allocation, QR check-in, and real-time reporting."
+    },
+    {
+      "repo": "Eyad-Eedoo-portfolio",
+      "description": "EEDOO Portfolio: Experimental personal technology portfolio built with React, Three.js, GSAP, and Framer Motion."
+    },
+    {
+      "repo": "J.A.R.V.I.S",
+      "description": "JARVIS: An AI assistant and system concept exploring generative AI architectures."
+    },
+    {
+      "repo": "it-project",
+      "description": "Event Management System: Enterprise-style platform for registration, accommodation, attendance monitoring, and reporting."
+    }
+  ]
+}
